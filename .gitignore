@@ -16,3 +16,8 @@
 
 *go.sum
 .idea/
+
+!vendor/gamife/
+vendor/
+
+*/vendor/
